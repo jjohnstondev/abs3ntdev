@@ -6,7 +6,7 @@ export default function Footer() {
     <>
       <footer className={styles.footer}>
         <Link href = "https://twitter.com/abs3ntdev" passHref={true}>
-          abs3ntdev <img src="/twitter.svg" alt="Twitter Logo" className={styles.logo} />
+          <a>abs3ntdev <img src="/twitter.svg" alt="Twitter Logo" className={styles.logo} /></a>
         </Link>
         abs3nt.eth#7465 <img src="/discord.svg" alt="Discord Logo" className={styles.logo} />
         jjohnstondev <img src="/github.svg" alt="Github Logo" className={styles.logo} />
