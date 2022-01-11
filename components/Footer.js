@@ -10,7 +10,7 @@ export default function Footer() {
         </Link>
         abs3nt.eth#7465 <img src="/discord.svg" alt="Discord Logo" className={styles.logo} />
         <Link href = "https://github.com/jjohnstondev">
-          <a>jjohnstondev</a><img src="/github.svg" alt="Github Logo" className={styles.logo} />
+          <a>jjohnstonde</a><img src="/github.svg" alt="Github Logo" className={styles.logo} />
         </Link>
       </footer>
     </>
