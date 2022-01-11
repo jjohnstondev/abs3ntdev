@@ -13,8 +13,8 @@ export default function Home() {
       <main>
         <Header title="I am abs3nt" />
         <p>
-        <a href="https://twitter.com/abs3ntdev"> abs3ntdev</a>
         <img src="/twitter.svg" alt="Twitter Logo"/>
+          <a href="https://twitter.com/abs3ntdev"> abs3ntdev</a><br/>
         {/* 
 
         <a href="https://discord.com/users/870047037930995722"> abs3nt.eth#7465</a>
