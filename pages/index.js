@@ -28,8 +28,8 @@ export default function Home() {
           <a href="https://discord.com/users/870047037930995722">discord</a><br/>
         <img src="/github.svg" alt="Github Logo" height="25px" margin="5px"/>
           <a href="https://github.com/jjohnstondev">github</a><br/>
-        <img src="/eth.svg" alt="Eth logo" height="25px" margin="5px"/>
-          <a href = "https://etherscan.io/address/0xe4306ad21a29f9edcfa9fa584e379a8d0d1463bb">eth</a><br/>
+        <img src="/os.svg" alt="Eth logo" height="25px" margin="5px"/>
+          <a href = "https://opensea.io/abs3nt_eth">opensea</a><br/>
 
         </p>
        
