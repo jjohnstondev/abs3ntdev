@@ -5,12 +5,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>abs3nt.eth dev page</title>
+        <title>abs3nt dev page</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main >
-        <Header title="I am abs3nt"/>
+        <Header title="abs3nt"/>
         <p>
         <a href="https://twitter.com/abs3ntdev" target="_blank">twitter</a><br/>
         <a href="https://discord.com/users/870047037930995722" target="_blank">discord</a><br/>
