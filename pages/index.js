@@ -12,13 +12,13 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     <div className="container">
-      <img src="background.png" alt="lain" layout="fill" objectFit="cover" quality={100}/>
       <Head>
         <title>abs3nt.eth dev page</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
+        <img src="background.png" alt="lain" layout="fill" objectFit="cover" quality={100}/>
         <Header title="I am abs3nt" />
         <p>
 
