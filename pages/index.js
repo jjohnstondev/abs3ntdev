@@ -1,13 +1,5 @@
 import Head from 'next/head'
 import Header from '@components/Header'
-import Footer from '@components/Footer'
-
-/*
-.logo {
-  height: 1em;
-  margin: 5px;
-}
-*/
 
 export default function Home() {
   return (
@@ -17,25 +9,15 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <img src="background.png" alt="lain" layout="fill" objectFit="cover" quality={100}/>
-        <Header title="I am abs3nt" />
+      <main >
+        <Header title="I am abs3nt"/>
         <p>
-
-        <img src="/twitter.svg" alt="Twitter Logo" height="25px" margin="5px"/>
-          <a href="https://twitter.com/abs3ntdev" target="_blank">twitter</a><br/>
-        <img src="/discord.svg" alt="Discord Logo" height="25px" margin="5px" />
-          <a href="https://discord.com/users/870047037930995722" target="_blank">discord</a><br/>
-        <img src="/github.svg" alt="Github Logo" height="25px" margin="5px"/>
-          <a href="https://github.com/jjohnstondev" target="_blank">github</a><br/>
-        <img src="/os.svg" alt="Eth logo" height="25px" margin="5px"/>
-          <a href = "https://opensea.io/abs3nt_eth" target="_blank">opensea</a><br/>
-
+        <a href="https://twitter.com/abs3ntdev" target="_blank">twitter</a><br/>
+        <a href="https://discord.com/users/870047037930995722" target="_blank">discord</a><br/>
+        <a href="https://github.com/jjohnstondev" target="_blank">github</a><br/>
+        <a href = "https://opensea.io/abs3nt_eth" target="_blank">opensea</a><br/>
         </p>
-       
       </main>
-
-      <Footer />
     </div>
   )
 }
