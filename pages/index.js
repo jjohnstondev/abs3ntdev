@@ -9,10 +9,10 @@ import Footer from '@components/Footer'
 }
 */
 
-
 export default function Home() {
   return (
     <div className="container">
+      <img src="background.png" style={{width: "100%", height: "auto"}}/>
       <Head>
         <title>abs3nt.eth dev page</title>
         <link rel="icon" href="/favicon.ico" />
