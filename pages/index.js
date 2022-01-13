@@ -16,6 +16,7 @@ export default function Home() {
         <a href="https://discord.com/users/870047037930995722" target="_blank">discord</a><br/>
         <a href="https://github.com/jjohnstondev" target="_blank">github</a><br/>
         <a href = "https://opensea.io/abs3nt_eth" target="_blank">opensea</a><br/>
+        <a href = "https://anilist.co/user/abs3nt" target = "_blank">anilist</a><br/>
         </p>
       </main>
     </div>
